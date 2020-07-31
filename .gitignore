@@ -1,5 +1,8 @@
 private
 images
+models
+external_dependencies
+notebooks/experiments/
 # Created by https://www.toptal.com/developers/gitignore/api/python,pycharm+all
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,pycharm+all
 

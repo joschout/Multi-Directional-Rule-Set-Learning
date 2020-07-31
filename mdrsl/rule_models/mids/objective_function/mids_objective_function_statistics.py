@@ -3,7 +3,7 @@ from typing import Optional, Dict
 from tabulate import tabulate
 import pandas as pd
 
-from utils.value_collection import ValueCollector
+from mdrsl.utils.value_collection import ValueCollector
 
 
 class MIDSObjectiveFunctionStatistics:

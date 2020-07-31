@@ -34,6 +34,9 @@ The basic use of IDS, RR and MIDS is illustrated by the following Jupyter notebo
 * [Round Robin (RR)](./notebooks/basic_use/rr_on_titanic.ipynb)
 * [Multi-directional IDS (MIDS)](./notebooks/basic_use/mids_on_titanic.ipynb)
 
+These notebooks illustrate these rule set classifiers on [the Titanic toy dataset that was provided with the reference IDS implementation](https://github.com/lvhimabindu) accompanying the original IDS paper.
+
+
 To use this project as a Python module, you can install it in your Python environment after cloning this repository as follows:
   ```shell
   git clone https://github.com/joschout/Multi-Directional_Rule_Set_Learning.git
@@ -145,7 +148,7 @@ This repository accompanies our paper:
 The original Interpretable Decision Sets algorithm was proposed in:
 > Lakkaraju, H., Bach, S. H., & Leskovec, J. (2016). Interpretable Decision Sets: A Joint Framework for Description and Prediction. In Proceedings of the 22Nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (pp. 1675–1684). New York, NY, USA: ACM. https://doi.org/10.1145/2939672.2939874
 
-[The IDS implementation associated with the original IDS paper can be found here.](https://github.com/lvhimabindu) It is limited by the fact that it includes code to learn an IDS model, but no code to actually apply the model, and no code to replicate the experiments from the paper. A great re-implementation of IDS by Jiri Filip and Tomas Kliegr called [PyIDS can be found here](https://github.com/jirifilip/pyIDS), and is described here: 
+[The reference IDS implementation associated with the original IDS paper can be found here.](https://github.com/lvhimabindu) While it includes code to learn an IDS model, there is no code to actually apply the model, and no code to replicate the experiments from the paper. A great re-implementation of IDS by Jiri Filip and Tomas Kliegr called [PyIDS can be found here](https://github.com/jirifilip/pyIDS), and is described here: 
 > Jiri Filip, Tomas Kliegr. PyIDS - Python Implementation of Interpretable Decision Sets Algorithm by Lakkaraju et al, 2016. RuleML+RR2019@Rule Challenge 2019. http://ceur-ws.org/Vol-2438/paper8.pdf
 
 Our experiments use data from the UCI machine learning repository, modified for association rule learning using the arcBench benchmarking suite, which was proposed by Tomas Kriegr in:
