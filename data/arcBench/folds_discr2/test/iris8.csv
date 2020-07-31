@@ -1,0 +1,16 @@
+sepallength,sepalwidth,petallength,petalwidth,class
+[-Inf;5.45],(3.05; Inf],[-Inf;2.45],[-Inf;0.8],Iris-setosa
+[-Inf;5.45],(3.05; Inf],[-Inf;2.45],[-Inf;0.8],Iris-setosa
+[-Inf;5.45],(3.05; Inf],[-Inf;2.45],[-Inf;0.8],Iris-setosa
+(5.45;5.75],(3.05; Inf],[-Inf;2.45],[-Inf;0.8],Iris-setosa
+[-Inf;5.45],(3.05; Inf],[-Inf;2.45],[-Inf;0.8],Iris-setosa
+(5.75; Inf],[-Inf;3.05],(2.45;4.75],(0.8;1.75],Iris-versicolor
+(5.75; Inf],(3.05; Inf],(2.45;4.75],(0.8;1.75],Iris-versicolor
+(5.75; Inf],[-Inf;3.05],(2.45;4.75],(0.8;1.75],Iris-versicolor
+(5.45;5.75],[-Inf;3.05],(2.45;4.75],(0.8;1.75],Iris-versicolor
+(5.45;5.75],[-Inf;3.05],(2.45;4.75],(0.8;1.75],Iris-versicolor
+(5.45;5.75],[-Inf;3.05],(4.75;5.15],(1.75; Inf],Iris-virginica
+(5.45;5.75],[-Inf;3.05],(4.75;5.15],(1.75; Inf],Iris-virginica
+(5.75; Inf],(3.05; Inf],(5.15; Inf],(1.75; Inf],Iris-virginica
+(5.75; Inf],[-Inf;3.05],(4.75;5.15],(1.75; Inf],Iris-virginica
+(5.75; Inf],[-Inf;3.05],(5.15; Inf],(1.75; Inf],Iris-virginica

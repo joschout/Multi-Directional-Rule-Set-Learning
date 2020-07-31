@@ -1,0 +1,22 @@
+RI,Na,Mg,Al,Si,K,Ca,Ba,Fe,Type
+[-Inf;1.51734],[-Inf;14.065],(2.695; Inf],(1.39;1.775],[-Inf; Inf],(0.055;0.625],(7.02;8.315],[-Inf;0.335],[-Inf; Inf],build wind non-float
+(1.51734;1.517985],[-Inf;14.065],(2.695; Inf],[-Inf;1.39],[-Inf; Inf],(0.055;0.625],(7.02;8.315],[-Inf;0.335],[-Inf; Inf],build wind float
+[-Inf;1.51734],[-Inf;14.065],(2.695; Inf],(1.39;1.775],[-Inf; Inf],(0.625;0.74],(7.02;8.315],[-Inf;0.335],[-Inf; Inf],build wind float
+(1.51734;1.517985],[-Inf;14.065],(2.695; Inf],[-Inf;1.39],[-Inf; Inf],(0.055;0.625],(8.315;10.055],[-Inf;0.335],[-Inf; Inf],build wind float
+(1.51734;1.517985],[-Inf;14.065],(2.695; Inf],(1.39;1.775],[-Inf; Inf],(0.055;0.625],(8.315;10.055],[-Inf;0.335],[-Inf; Inf],build wind float
+(1.517985; Inf],[-Inf;14.065],(2.695; Inf],[-Inf;1.39],[-Inf; Inf],(0.055;0.625],(8.315;10.055],[-Inf;0.335],[-Inf; Inf],build wind float
+(1.517985; Inf],[-Inf;14.065],(2.695; Inf],[-Inf;1.39],[-Inf; Inf],(0.055;0.625],(10.055; Inf],[-Inf;0.335],[-Inf; Inf],build wind float
+[-Inf;1.51734],[-Inf;14.065],(2.695; Inf],[-Inf;1.39],[-Inf; Inf],(0.055;0.625],(8.315;10.055],[-Inf;0.335],[-Inf; Inf],vehic wind float
+(1.517985; Inf],[-Inf;14.065],[-Inf;2.695],[-Inf;1.39],[-Inf; Inf],(0.055;0.625],(10.055; Inf],[-Inf;0.335],[-Inf; Inf],build wind non-float
+[-Inf;1.51734],(14.065; Inf],[-Inf;2.695],(1.775; Inf],[-Inf; Inf],[-Inf;0.055],(7.02;8.315],(0.335; Inf],[-Inf; Inf],headlamps
+[-Inf;1.51734],[-Inf;14.065],(2.695; Inf],[-Inf;1.39],[-Inf; Inf],(0.055;0.625],(8.315;10.055],[-Inf;0.335],[-Inf; Inf],build wind non-float
+(1.517985; Inf],(14.065; Inf],[-Inf;2.695],(1.775; Inf],[-Inf; Inf],[-Inf;0.055],(8.315;10.055],(0.335; Inf],[-Inf; Inf],headlamps
+(1.517985; Inf],[-Inf;14.065],(2.695; Inf],(1.39;1.775],[-Inf; Inf],(0.055;0.625],(8.315;10.055],[-Inf;0.335],[-Inf; Inf],build wind non-float
+[-Inf;1.51734],(14.065; Inf],[-Inf;2.695],(1.775; Inf],[-Inf; Inf],[-Inf;0.055],(8.315;10.055],(0.335; Inf],[-Inf; Inf],headlamps
+(1.517985; Inf],[-Inf;14.065],[-Inf;2.695],[-Inf;1.39],[-Inf; Inf],[-Inf;0.055],(10.055; Inf],[-Inf;0.335],[-Inf; Inf],build wind non-float
+[-Inf;1.51734],[-Inf;14.065],(2.695; Inf],(1.39;1.775],[-Inf; Inf],(0.055;0.625],(8.315;10.055],[-Inf;0.335],[-Inf; Inf],build wind non-float
+(1.517985; Inf],[-Inf;14.065],[-Inf;2.695],(1.39;1.775],[-Inf; Inf],(0.055;0.625],(10.055; Inf],[-Inf;0.335],[-Inf; Inf],containers
+(1.517985; Inf],(14.065; Inf],[-Inf;2.695],(1.775; Inf],[-Inf; Inf],[-Inf;0.055],(10.055; Inf],[-Inf;0.335],[-Inf; Inf],tableware
+(1.51734;1.517985],[-Inf;14.065],(2.695; Inf],(1.39;1.775],[-Inf; Inf],(0.055;0.625],(8.315;10.055],[-Inf;0.335],[-Inf; Inf],vehic wind float
+(1.51734;1.517985],[-Inf;14.065],(2.695; Inf],[-Inf;1.39],[-Inf; Inf],(0.055;0.625],(8.315;10.055],[-Inf;0.335],[-Inf; Inf],build wind float
+[-Inf;1.51734],[-Inf;14.065],(2.695; Inf],(1.39;1.775],[-Inf; Inf],(0.625;0.74],(8.315;10.055],[-Inf;0.335],[-Inf; Inf],build wind non-float

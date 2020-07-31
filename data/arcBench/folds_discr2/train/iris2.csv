@@ -1,0 +1,136 @@
+sepallength,sepalwidth,petallength,petalwidth,class
+[-Inf;5.45],(3.35; Inf],[-Inf;2.45],[-Inf;0.8],Iris-setosa
+[-Inf;5.45],[-Inf;3.35],[-Inf;2.45],[-Inf;0.8],Iris-setosa
+[-Inf;5.45],[-Inf;3.35],[-Inf;2.45],[-Inf;0.8],Iris-setosa
+[-Inf;5.45],[-Inf;3.35],[-Inf;2.45],[-Inf;0.8],Iris-setosa
+[-Inf;5.45],(3.35; Inf],[-Inf;2.45],[-Inf;0.8],Iris-setosa
+[-Inf;5.45],(3.35; Inf],[-Inf;2.45],[-Inf;0.8],Iris-setosa
+[-Inf;5.45],(3.35; Inf],[-Inf;2.45],[-Inf;0.8],Iris-setosa
+[-Inf;5.45],(3.35; Inf],[-Inf;2.45],[-Inf;0.8],Iris-setosa
+[-Inf;5.45],[-Inf;3.35],[-Inf;2.45],[-Inf;0.8],Iris-setosa
+[-Inf;5.45],[-Inf;3.35],[-Inf;2.45],[-Inf;0.8],Iris-setosa
+[-Inf;5.45],(3.35; Inf],[-Inf;2.45],[-Inf;0.8],Iris-setosa
+[-Inf;5.45],(3.35; Inf],[-Inf;2.45],[-Inf;0.8],Iris-setosa
+[-Inf;5.45],[-Inf;3.35],[-Inf;2.45],[-Inf;0.8],Iris-setosa
+[-Inf;5.45],[-Inf;3.35],[-Inf;2.45],[-Inf;0.8],Iris-setosa
+(5.45;6.15],(3.35; Inf],[-Inf;2.45],[-Inf;0.8],Iris-setosa
+(5.45;6.15],(3.35; Inf],[-Inf;2.45],[-Inf;0.8],Iris-setosa
+[-Inf;5.45],(3.35; Inf],[-Inf;2.45],[-Inf;0.8],Iris-setosa
+[-Inf;5.45],(3.35; Inf],[-Inf;2.45],[-Inf;0.8],Iris-setosa
+[-Inf;5.45],(3.35; Inf],[-Inf;2.45],[-Inf;0.8],Iris-setosa
+[-Inf;5.45],(3.35; Inf],[-Inf;2.45],[-Inf;0.8],Iris-setosa
+[-Inf;5.45],(3.35; Inf],[-Inf;2.45],[-Inf;0.8],Iris-setosa
+[-Inf;5.45],(3.35; Inf],[-Inf;2.45],[-Inf;0.8],Iris-setosa
+[-Inf;5.45],[-Inf;3.35],[-Inf;2.45],[-Inf;0.8],Iris-setosa
+[-Inf;5.45],(3.35; Inf],[-Inf;2.45],[-Inf;0.8],Iris-setosa
+[-Inf;5.45],[-Inf;3.35],[-Inf;2.45],[-Inf;0.8],Iris-setosa
+[-Inf;5.45],(3.35; Inf],[-Inf;2.45],[-Inf;0.8],Iris-setosa
+[-Inf;5.45],(3.35; Inf],[-Inf;2.45],[-Inf;0.8],Iris-setosa
+[-Inf;5.45],[-Inf;3.35],[-Inf;2.45],[-Inf;0.8],Iris-setosa
+[-Inf;5.45],[-Inf;3.35],[-Inf;2.45],[-Inf;0.8],Iris-setosa
+[-Inf;5.45],(3.35; Inf],[-Inf;2.45],[-Inf;0.8],Iris-setosa
+[-Inf;5.45],(3.35; Inf],[-Inf;2.45],[-Inf;0.8],Iris-setosa
+(5.45;6.15],(3.35; Inf],[-Inf;2.45],[-Inf;0.8],Iris-setosa
+[-Inf;5.45],[-Inf;3.35],[-Inf;2.45],[-Inf;0.8],Iris-setosa
+[-Inf;5.45],[-Inf;3.35],[-Inf;2.45],[-Inf;0.8],Iris-setosa
+[-Inf;5.45],(3.35; Inf],[-Inf;2.45],[-Inf;0.8],Iris-setosa
+[-Inf;5.45],(3.35; Inf],[-Inf;2.45],[-Inf;0.8],Iris-setosa
+[-Inf;5.45],[-Inf;3.35],[-Inf;2.45],[-Inf;0.8],Iris-setosa
+[-Inf;5.45],[-Inf;3.35],[-Inf;2.45],[-Inf;0.8],Iris-setosa
+[-Inf;5.45],(3.35; Inf],[-Inf;2.45],[-Inf;0.8],Iris-setosa
+[-Inf;5.45],(3.35; Inf],[-Inf;2.45],[-Inf;0.8],Iris-setosa
+[-Inf;5.45],[-Inf;3.35],[-Inf;2.45],[-Inf;0.8],Iris-setosa
+[-Inf;5.45],(3.35; Inf],[-Inf;2.45],[-Inf;0.8],Iris-setosa
+[-Inf;5.45],[-Inf;3.35],[-Inf;2.45],[-Inf;0.8],Iris-setosa
+[-Inf;5.45],(3.35; Inf],[-Inf;2.45],[-Inf;0.8],Iris-setosa
+[-Inf;5.45],[-Inf;3.35],[-Inf;2.45],[-Inf;0.8],Iris-setosa
+(6.15; Inf],[-Inf;3.35],(2.45;4.75],(0.8;1.75],Iris-versicolor
+(6.15; Inf],[-Inf;3.35],(2.45;4.75],(0.8;1.75],Iris-versicolor
+(6.15; Inf],[-Inf;3.35],(4.75; Inf],(0.8;1.75],Iris-versicolor
+(5.45;6.15],[-Inf;3.35],(2.45;4.75],(0.8;1.75],Iris-versicolor
+(6.15; Inf],[-Inf;3.35],(2.45;4.75],(0.8;1.75],Iris-versicolor
+(5.45;6.15],[-Inf;3.35],(2.45;4.75],(0.8;1.75],Iris-versicolor
+(6.15; Inf],[-Inf;3.35],(2.45;4.75],(0.8;1.75],Iris-versicolor
+(6.15; Inf],[-Inf;3.35],(2.45;4.75],(0.8;1.75],Iris-versicolor
+[-Inf;5.45],[-Inf;3.35],(2.45;4.75],(0.8;1.75],Iris-versicolor
+[-Inf;5.45],[-Inf;3.35],(2.45;4.75],(0.8;1.75],Iris-versicolor
+(5.45;6.15],[-Inf;3.35],(2.45;4.75],(0.8;1.75],Iris-versicolor
+(5.45;6.15],[-Inf;3.35],(2.45;4.75],(0.8;1.75],Iris-versicolor
+(5.45;6.15],[-Inf;3.35],(2.45;4.75],(0.8;1.75],Iris-versicolor
+(5.45;6.15],[-Inf;3.35],(2.45;4.75],(0.8;1.75],Iris-versicolor
+(6.15; Inf],[-Inf;3.35],(2.45;4.75],(0.8;1.75],Iris-versicolor
+(5.45;6.15],[-Inf;3.35],(2.45;4.75],(0.8;1.75],Iris-versicolor
+(5.45;6.15],[-Inf;3.35],(2.45;4.75],(0.8;1.75],Iris-versicolor
+(6.15; Inf],[-Inf;3.35],(2.45;4.75],(0.8;1.75],Iris-versicolor
+(5.45;6.15],[-Inf;3.35],(4.75; Inf],(1.75; Inf],Iris-versicolor
+(5.45;6.15],[-Inf;3.35],(2.45;4.75],(0.8;1.75],Iris-versicolor
+(6.15; Inf],[-Inf;3.35],(4.75; Inf],(0.8;1.75],Iris-versicolor
+(5.45;6.15],[-Inf;3.35],(2.45;4.75],(0.8;1.75],Iris-versicolor
+(6.15; Inf],[-Inf;3.35],(2.45;4.75],(0.8;1.75],Iris-versicolor
+(6.15; Inf],[-Inf;3.35],(2.45;4.75],(0.8;1.75],Iris-versicolor
+(6.15; Inf],[-Inf;3.35],(4.75; Inf],(0.8;1.75],Iris-versicolor
+(6.15; Inf],[-Inf;3.35],(4.75; Inf],(0.8;1.75],Iris-versicolor
+(5.45;6.15],[-Inf;3.35],(2.45;4.75],(0.8;1.75],Iris-versicolor
+(5.45;6.15],[-Inf;3.35],(2.45;4.75],(0.8;1.75],Iris-versicolor
+(5.45;6.15],[-Inf;3.35],(2.45;4.75],(0.8;1.75],Iris-versicolor
+(5.45;6.15],[-Inf;3.35],(2.45;4.75],(0.8;1.75],Iris-versicolor
+(5.45;6.15],[-Inf;3.35],(2.45;4.75],(0.8;1.75],Iris-versicolor
+(5.45;6.15],[-Inf;3.35],(4.75; Inf],(0.8;1.75],Iris-versicolor
+(5.45;6.15],(3.35; Inf],(2.45;4.75],(0.8;1.75],Iris-versicolor
+(6.15; Inf],[-Inf;3.35],(2.45;4.75],(0.8;1.75],Iris-versicolor
+(6.15; Inf],[-Inf;3.35],(2.45;4.75],(0.8;1.75],Iris-versicolor
+(5.45;6.15],[-Inf;3.35],(2.45;4.75],(0.8;1.75],Iris-versicolor
+(5.45;6.15],[-Inf;3.35],(2.45;4.75],(0.8;1.75],Iris-versicolor
+(5.45;6.15],[-Inf;3.35],(2.45;4.75],(0.8;1.75],Iris-versicolor
+(5.45;6.15],[-Inf;3.35],(2.45;4.75],(0.8;1.75],Iris-versicolor
+(5.45;6.15],[-Inf;3.35],(2.45;4.75],(0.8;1.75],Iris-versicolor
+(5.45;6.15],[-Inf;3.35],(2.45;4.75],(0.8;1.75],Iris-versicolor
+(5.45;6.15],[-Inf;3.35],(2.45;4.75],(0.8;1.75],Iris-versicolor
+(6.15; Inf],[-Inf;3.35],(2.45;4.75],(0.8;1.75],Iris-versicolor
+[-Inf;5.45],[-Inf;3.35],(2.45;4.75],(0.8;1.75],Iris-versicolor
+(5.45;6.15],[-Inf;3.35],(2.45;4.75],(0.8;1.75],Iris-versicolor
+(6.15; Inf],[-Inf;3.35],(4.75; Inf],(1.75; Inf],Iris-virginica
+(5.45;6.15],[-Inf;3.35],(4.75; Inf],(1.75; Inf],Iris-virginica
+(6.15; Inf],[-Inf;3.35],(4.75; Inf],(1.75; Inf],Iris-virginica
+(6.15; Inf],[-Inf;3.35],(4.75; Inf],(1.75; Inf],Iris-virginica
+(6.15; Inf],[-Inf;3.35],(4.75; Inf],(1.75; Inf],Iris-virginica
+(6.15; Inf],[-Inf;3.35],(4.75; Inf],(1.75; Inf],Iris-virginica
+(6.15; Inf],[-Inf;3.35],(4.75; Inf],(1.75; Inf],Iris-virginica
+(6.15; Inf],[-Inf;3.35],(4.75; Inf],(1.75; Inf],Iris-virginica
+(6.15; Inf],(3.35; Inf],(4.75; Inf],(1.75; Inf],Iris-virginica
+(6.15; Inf],[-Inf;3.35],(4.75; Inf],(1.75; Inf],Iris-virginica
+(6.15; Inf],[-Inf;3.35],(4.75; Inf],(1.75; Inf],Iris-virginica
+(6.15; Inf],[-Inf;3.35],(4.75; Inf],(1.75; Inf],Iris-virginica
+(5.45;6.15],[-Inf;3.35],(4.75; Inf],(1.75; Inf],Iris-virginica
+(5.45;6.15],[-Inf;3.35],(4.75; Inf],(1.75; Inf],Iris-virginica
+(6.15; Inf],[-Inf;3.35],(4.75; Inf],(1.75; Inf],Iris-virginica
+(6.15; Inf],(3.35; Inf],(4.75; Inf],(1.75; Inf],Iris-virginica
+(6.15; Inf],[-Inf;3.35],(4.75; Inf],(1.75; Inf],Iris-virginica
+(5.45;6.15],[-Inf;3.35],(4.75; Inf],(0.8;1.75],Iris-virginica
+(6.15; Inf],[-Inf;3.35],(4.75; Inf],(1.75; Inf],Iris-virginica
+(5.45;6.15],[-Inf;3.35],(4.75; Inf],(1.75; Inf],Iris-virginica
+(6.15; Inf],[-Inf;3.35],(4.75; Inf],(1.75; Inf],Iris-virginica
+(6.15; Inf],[-Inf;3.35],(4.75; Inf],(1.75; Inf],Iris-virginica
+(6.15; Inf],[-Inf;3.35],(4.75; Inf],(1.75; Inf],Iris-virginica
+(6.15; Inf],[-Inf;3.35],(4.75; Inf],(1.75; Inf],Iris-virginica
+(5.45;6.15],[-Inf;3.35],(4.75; Inf],(1.75; Inf],Iris-virginica
+(6.15; Inf],[-Inf;3.35],(4.75; Inf],(1.75; Inf],Iris-virginica
+(6.15; Inf],[-Inf;3.35],(4.75; Inf],(0.8;1.75],Iris-virginica
+(6.15; Inf],[-Inf;3.35],(4.75; Inf],(1.75; Inf],Iris-virginica
+(6.15; Inf],(3.35; Inf],(4.75; Inf],(1.75; Inf],Iris-virginica
+(6.15; Inf],[-Inf;3.35],(4.75; Inf],(1.75; Inf],Iris-virginica
+(6.15; Inf],[-Inf;3.35],(4.75; Inf],(0.8;1.75],Iris-virginica
+(5.45;6.15],[-Inf;3.35],(4.75; Inf],(0.8;1.75],Iris-virginica
+(6.15; Inf],[-Inf;3.35],(4.75; Inf],(1.75; Inf],Iris-virginica
+(6.15; Inf],(3.35; Inf],(4.75; Inf],(1.75; Inf],Iris-virginica
+(6.15; Inf],[-Inf;3.35],(4.75; Inf],(1.75; Inf],Iris-virginica
+(5.45;6.15],[-Inf;3.35],(4.75; Inf],(1.75; Inf],Iris-virginica
+(6.15; Inf],[-Inf;3.35],(4.75; Inf],(1.75; Inf],Iris-virginica
+(6.15; Inf],[-Inf;3.35],(4.75; Inf],(1.75; Inf],Iris-virginica
+(5.45;6.15],[-Inf;3.35],(4.75; Inf],(1.75; Inf],Iris-virginica
+(6.15; Inf],[-Inf;3.35],(4.75; Inf],(1.75; Inf],Iris-virginica
+(6.15; Inf],[-Inf;3.35],(4.75; Inf],(1.75; Inf],Iris-virginica
+(6.15; Inf],[-Inf;3.35],(4.75; Inf],(1.75; Inf],Iris-virginica
+(6.15; Inf],[-Inf;3.35],(4.75; Inf],(1.75; Inf],Iris-virginica
+(6.15; Inf],(3.35; Inf],(4.75; Inf],(1.75; Inf],Iris-virginica
+(5.45;6.15],[-Inf;3.35],(4.75; Inf],(1.75; Inf],Iris-virginica

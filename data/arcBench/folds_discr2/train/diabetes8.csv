@@ -1,0 +1,693 @@
+preg,plas,pres,skin,insu,mass,pedi,age,class
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+(6.5; Inf],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+(6.5; Inf],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+(6.5; Inf],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+(6.5; Inf],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+(6.5; Inf],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(142; Inf],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_positive
+(6.5; Inf],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+(6.5; Inf],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+(6.5; Inf],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+(6.5; Inf],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+(6.5; Inf],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+(6.5; Inf],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(112;142],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+(6.5; Inf],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(112;142],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+(6.5; Inf],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+(6.5; Inf],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+(6.5; Inf],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+(6.5; Inf],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+(6.5; Inf],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+(6.5; Inf],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(112;142],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(112;142],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(112;142],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+(6.5; Inf],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(112;142],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(112;142],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+(6.5; Inf],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(112;142],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+(6.5; Inf],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+(6.5; Inf],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(112;142],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(112;142],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+(6.5; Inf],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+(6.5; Inf],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(112;142],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(112;142],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+(6.5; Inf],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(112;142],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(112;142],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+(6.5; Inf],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+(6.5; Inf],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+(6.5; Inf],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(112;142],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+(6.5; Inf],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+(6.5; Inf],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+(6.5; Inf],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+(6.5; Inf],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_positive
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+(6.5; Inf],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(112;142],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+(6.5; Inf],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+(6.5; Inf],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(112;142],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(112;142],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+(6.5; Inf],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+(6.5; Inf],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+(6.5; Inf],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+(6.5; Inf],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+(6.5; Inf],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+(6.5; Inf],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(142; Inf],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(112;142],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+(6.5; Inf],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(112;142],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(112;142],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+(6.5; Inf],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+(6.5; Inf],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_positive
+(6.5; Inf],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(112;142],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(112;142],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+(6.5; Inf],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(112;142],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(14.5;112],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(112;142],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+(6.5; Inf],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(142; Inf],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+(6.5; Inf],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(112;142],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+(6.5; Inf],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+(6.5; Inf],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+(6.5; Inf],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+(6.5; Inf],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+(6.5; Inf],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+(6.5; Inf],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+(6.5; Inf],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(112;142],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+(6.5; Inf],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(112;142],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+(6.5; Inf],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(112;142],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+(6.5; Inf],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(112;142],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+(6.5; Inf],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+(6.5; Inf],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+(6.5; Inf],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(112;142],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+(6.5; Inf],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+(6.5; Inf],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(112;142],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(112;142],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(142; Inf],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+(6.5; Inf],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+(6.5; Inf],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+(6.5; Inf],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+(6.5; Inf],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+(6.5; Inf],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+(6.5; Inf],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(112;142],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+(6.5; Inf],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+(6.5; Inf],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(112;142],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+(6.5; Inf],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+(6.5; Inf],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+(6.5; Inf],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(112;142],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(112;142],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(112;142],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+(6.5; Inf],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+(6.5; Inf],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+(6.5; Inf],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(112;142],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(112;142],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(112;142],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+(6.5; Inf],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(112;142],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+(6.5; Inf],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(142; Inf],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+(6.5; Inf],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(112;142],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(112;142],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+(6.5; Inf],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+(6.5; Inf],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+(6.5; Inf],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(112;142],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(112;142],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+(6.5; Inf],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+(6.5; Inf],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+(6.5; Inf],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+(6.5; Inf],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+(6.5; Inf],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+(6.5; Inf],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(112;142],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(112;142],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+(6.5; Inf],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+(6.5; Inf],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(112;142],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+(6.5; Inf],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(112;142],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+(6.5; Inf],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(112;142],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+(6.5; Inf],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],(112;142],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+(6.5; Inf],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_positive
+(6.5; Inf],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+(6.5; Inf],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],(14.5;112],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+(6.5; Inf],(154.5; Inf],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+(6.5; Inf],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],[-Inf;27.35],[-Inf; Inf],(28.5; Inf],tested_negative
+(6.5; Inf],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],(142; Inf],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_negative
+[-Inf;6.5],(99.5;123.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
+[-Inf;6.5],(123.5;154.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],(28.5; Inf],tested_positive
+[-Inf;6.5],[-Inf;99.5],[-Inf; Inf],[-Inf; Inf],[-Inf;14.5],(27.35; Inf],[-Inf; Inf],[-Inf;28.5],tested_negative
