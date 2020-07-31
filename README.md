@@ -1,6 +1,6 @@
 # Multi-Directional Rule Set Learning
 
-This project contains a Python module for learning Multi-directional rule sets, accompanying the paper:
+This project contains a Python module for learning **multi-directional rule sets**, accompanying our paper:
 > Schouterden J., Davis J., Blockeel H.: *Multi-Directional Rule Set Learning.* To be presented at: Discovery Science 2020
 
 __________________________________
