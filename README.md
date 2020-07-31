@@ -47,11 +47,14 @@ In our paper, we include two sets of experiments. Here, we describe how to repro
 
 ### 1. Comparing models generated from association rules and Random Forest derived rules.
 
-First, we compared the single-target association rules with single-target rules derived from Random Forest trees as the candidate rule set, out of which the rules of the associative classifier are selected. 
-As a rule selection method, we used single-target IDS. (Note: in our experiments, we use our MIDS implementation, which corresponds to IDS when given single-target rules.)
-The code for these experiments can be found in [`experiments/e1_st_association_vs_tree_rules`](./experiments/e1_st_association_vs_tree_rules).
+In our first experiment, we compared two different single-target candidate rule sets our of which an asssociative classifier can be selected:
+1. single-target association rules, and
+2. single-target rules derived from Random Forest trees.
+
+For this experiment, single-target IDS is used as the rule selection algorithm. (Note: in our experiments, we use our MIDS implementation, which corresponds to IDS when given single-target rules.)
+The code for this experiment can be found in [`experiments/e1_st_association_vs_tree_rules`](./experiments/e1_st_association_vs_tree_rules).
  
-To reproduce our experiments, do the following for each candidate rule set type:
+To reproduce this experiment, you can do the following for each candidate rule set type:
 * When considering single-target **association rules** as the candidate rule set:
     1. [Mine single-target association rules.](./experiments/e1_st_association_vs_tree_rules/rule_mining/single_target_car_mining_ifo_confidence_level.py)
     2. [Fit an AR-IDS model.](./experiments/e1_st_association_vs_tree_rules/model_induction/single_target_car_mids_model_induction.py) That is, use IDS to select a subset of the candidate single-target association rules.
@@ -63,9 +66,18 @@ To reproduce our experiments, do the following for each candidate rule set type:
 
 ### 2. Comparing multi-directional model generated from multi-target and single-target tree rules
 
-In our second experiment, we compare using multi-target rules with single-target rules as the candidate rule set. From the multi-target rules, we fit two multi-directional model using Round Robin and MIDS as the rule selectors. From the single-target rules, we fit an ensemble of single-target IDS models.
+In our second experiment, we compare multi-directional models selected from the following candidate rule sets:
+1. multi-target rules derived from Random Forest trees, and
+2. single-target rules defived from Random Forest trees.
 
-To reproduce our experiments, do the following steps for each rule type:
+From the multi-target rules, we fit two multi-directional models:
+ * a Round Robin model, and
+ * a MIDS model.
+ 
+ From the single-target rules, we fit an ensemble of single-target IDS models.
+The code for this experiment can be found in [`experiments/e2_multi_directional_model_comparison`](./experiments/e2_multi_directional_model_comparison).
+
+To reproduce this experiments, you can do the following steps for each rule type:
 
 * When using multi-target rules:
     1. [Generate multi-target rules from multi-target Random Forest trees.](./experiments/e2_multi_directional_model_comparison/rule_mining/mine_multi_target_rules_from_random_forests2.py)
@@ -124,7 +136,20 @@ Depending on what you will use, you need to install some of the following packag
 * [bidict](https://github.com/jab/bidict), used to encode the training data during association rule minin. This way, large strings don't have to be used as data. `pip install bidict`
 
 ## References
-* Liu, B. Hsu, W. and Ma, Y (1998). Integrating Classification and Association Rule Mining. Proceedings KDD-98, New York, 27-31 August. AAAI. pp 80-86.
-* Kliegr, Tomas. Quantitative CBA: Small and Comprehensible Association Rule Classification Models. arXiv preprint arXiv:1711.10166, 2017.
-* Jiri Filip, Tomas Kliegr. PyIDS - Python Implementation of Interpretable Decision Sets Algorithm by Lakkaraju et al, 2016. RuleML+RR2019@Rule Challenge 2019. http://ceur-ws.org/Vol-2438/paper8.pdf
-* I. Rodríguez-Fdez, A. Canosa, M. Mucientes, A. Bugarín, STAC: a web platform for the comparison of algorithms using statistical tests, in:Proceedings of the 2015 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE), 2015. 
+
+This repository accompanies our paper:
+
+> Schouterden J., Davis J., Blockeel H.: *Multi-Directional Rule Set Learning.* To be presented at: Discovery Science 2020
+
+
+The original Interpretable Decision Sets algorithm was proposed in:
+> Lakkaraju, H., Bach, S. H., & Leskovec, J. (2016). Interpretable Decision Sets: A Joint Framework for Description and Prediction. In Proceedings of the 22Nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (pp. 1675–1684). New York, NY, USA: ACM. https://doi.org/10.1145/2939672.2939874
+
+[The IDS implementation associated with the original IDS paper can be found here.](https://github.com/lvhimabindu) It is limited by the fact that it includes code to learn an IDS model, but no code to actually apply the model, and no code to replicate the experiments from the paper. A great re-implementation of IDS by Jiri Filip and Tomas Kliegr called [PyIDS can be found here](https://github.com/jirifilip/pyIDS), and is described here: 
+> Jiri Filip, Tomas Kliegr. PyIDS - Python Implementation of Interpretable Decision Sets Algorithm by Lakkaraju et al, 2016. RuleML+RR2019@Rule Challenge 2019. http://ceur-ws.org/Vol-2438/paper8.pdf
+
+Our experiments use data from the UCI machine learning repository, modified for association rule learning using the arcBench benchmarking suite, which was proposed by Tomas Kriegr in:
+> Kliegr, Tomas. Quantitative CBA: Small and Comprehensible Association Rule Classification Models. arXiv preprint arXiv:1711.10166, 2017.
+
+For comparing our results, we use STAC, a great tool for statistically comparing the performance of algorithms, as proposed in:
+> I. Rodríguez-Fdez, A. Canosa, M. Mucientes, A. Bugarín, STAC: a web platform for the comparison of algorithms using statistical tests, in: Proceedings of the 2015 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE), 2015. 
