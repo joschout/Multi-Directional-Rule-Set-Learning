@@ -86,7 +86,7 @@ class MIDSInterpretabilityStatisticsCalculator:
 
         if type(ruleset) != MIDSRuleSet:
             raise Exception(f"Type of ruleset must be MIDSRuleSet, but is {type(ruleset)}")
-        warnings.warn("FRACTION_OVERLAP IS CURRENTLY NOT RELATIVE TO A TARGET ATTRIBUTE. THIS MIGHT BE INCORRECT")
+        # warnings.warn("FRACTION_OVERLAP IS CURRENTLY NOT RELATIVE TO A TARGET ATTRIBUTE. THIS MIGHT BE INCORRECT")
 
         ruleset_size: int = len(ruleset)
         if ruleset_size == 0:
