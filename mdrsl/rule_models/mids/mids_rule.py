@@ -23,7 +23,7 @@ class MIDSRule:
         """
         if self.car.support == 0 or self.car.confidence == 0:
             return 0
-        warnings.warn("possibly not correct for multi-target prediction")
+        # warnings.warn("possibly not correct for multi-target prediction")
 
         return st.hmean([self.car.support, self.car.confidence])
 
