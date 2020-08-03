@@ -39,6 +39,7 @@ The basic use of IDS, RR and MIDS is illustrated by the following Jupyter notebo
 
 These notebooks illustrate these rule set classifiers on [the Titanic toy dataset that was provided with the reference IDS implementation](https://github.com/lvhimabindu) accompanying the original IDS paper.
 
+## Installation
 
 To use this project as a Python module, you can install it in your Python environment after cloning this repository as follows:
   ```shell
@@ -47,9 +48,8 @@ To use this project as a Python module, you can install it in your Python enviro
   python setup.py install develop --user
   ```
 
-## Installation
 
-Depending on what you will use, you need to install some of the following packages. Note: we assume you have a recent Python 3 distribution installed (we used Python 3.8). Our installation instructions assume the use of a Unix shell.
+Depending on what you will use, you will need to install some of the following packages. Note: we assume you have a recent Python 3 distribution installed (we used Python 3.8). Our installation instructions assume the use of a Unix shell.
 
 * [*submodmax*](https://github.com/joschout/SubmodularMaximization), for unconstrained submodular maximization of the (M)IDS objective functions. This package is required for our versions of single-target IDS and Multi-directional IDS, as it contains the algorithms used for finding a locally optimal rule set. You can install it as follows:
   ```shell
