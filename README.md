@@ -3,13 +3,16 @@
 This project contains a Python module for learning **multi-directional rule sets**, accompanying our paper:
 > Schouterden J., Davis J., Blockeel H.: *Multi-Directional Rule Set Learning.* To be presented at: Discovery Science 2020
 
-__________________________________
-[Abstract](https://github.com/joschout/Multi-Directional_Rule_Set_Learning#abstract) -
-[Basic use](https://github.com/joschout/Multi-Directional_Rule_Set_Learning#basic-use) -
-[Experiments](https://github.com/joschout/Multi-Directional_Rule_Set_Learning#experiments) -
-[Dependencies](https://github.com/joschout/Multi-Directional_Rule_Set_Learning#dependencies) -
-[References](https://github.com/joschout/Multi-Directional_Rule_Set_Learning#references) 
-_________________
+Multi-directional rule sets are useful in cases where the user is not able to indicate a target attribute in advance, as they can predict any attribute given all others. A multi-directional rule set can consists of multi-target rules (i.e. rules with multiple targets in their head), or single-target rules (where different rule can have diffferent targets as their head).
+
+
+## Table of Contents
+
+* [Abstract](https://github.com/joschout/Multi-Directional_Rule_Set_Learning#abstract)
+* [Basic use](https://github.com/joschout/Multi-Directional_Rule_Set_Learning#basic-use)
+* [Installation](https://github.com/joschout/Multi-Directional_Rule_Set_Learning#installation)
+* [Experiments](https://github.com/joschout/Multi-Directional_Rule_Set_Learning#experiments)
+* [References](https://github.com/joschout/Multi-Directional_Rule_Set_Learning#references) 
 
 
 ## Abstract
@@ -43,6 +46,46 @@ To use this project as a Python module, you can install it in your Python enviro
   cd Multi-Directional_Rule_Set_Learning/
   python setup.py install develop --user
   ```
+
+## Installation
+
+Depending on what you will use, you need to install some of the following packages. Note: we assume you have a recent Python 3 distribution installed (we used Python 3.8). Our installation instructions assume the use of a Unix shell.
+
+* [*submodmax*](https://github.com/joschout/SubmodularMaximization), for unconstrained submodular maximization of the (M)IDS objective functions. This package is required for our versions of single-target IDS and Multi-directional IDS, as it contains the algorithms used for finding a locally optimal rule set. You can install it as follows:
+  ```shell
+  git clone https://github.com/joschout/SubmodularMaximization.git
+  cd SubmodularMaximization/
+  python setup.py install develop --user
+  ```
+* [PyFIM](https://borgelt.net/pyfim.html), by Christian Borgelt. This package is used for frequent itemset mining and (single-target) association rule mining, and is a dependency for pyARC. We downloaded the precompiled version and added it to our conda environment. This package is necessary wherever `import fim` is used.
+* [pyARC](https://github.com/jirifilip/pyARC), by Jiří Filip. This package provides a Python implementation of the *Classification Based on Association Rules (CBA)* algorithn, which is one of the oldest *associative classifiers*. This package is a requirement for pyIDS. We make use of some of its data structures, and base some code snippets on theirs. *Note: there seems to be an error in the pyARC pip package, making the `QuantitativeDataFrame` class unavailable. Thus, we recommend installing it directly from the repository.*
+  ```shell
+  git clone https://github.com/jirifilip/pyARC.git
+  cd pyARC/
+  python setup.py install develop --user
+  ```
+* [pyIDS](https://github.com/jirifilip/pyIDS), by Jiří Filip and Tomas Kliegr. This package provides a great reimplementation of *Interpretable Decision Sets (IDS)*. We include a reworked IDS implementation in this repository, based on and using classes from pyIDS. To install pyIDS, run:
+  ```shell
+  git clone https://github.com/jirifilip/pyIDS.git
+  cd pyIDS  
+  ```
+  Next, copy our the `install_utls/pyIDS/setup.py` to the `pyIDS` directory and run:
+  ```shell
+   python setup.py install develop --user
+   ```
+* *MLxtend* is a Python library with an implementation of *FP-growth* that allows to extract  *single-target class association rules*. Most association rule mining implementations only allow to mine single-target rules for a given target attribute, out of efficiency considerations. We forked MLxtend and modified it to also generate *multi-target* association rules. [Our fork can be found here](https://github.com/joschout/mlxtend/), while [the regular source code can be found here](https://github.com/rasbt/mlxtend). To install our fork, run:
+  ```shell
+  git clone https://github.com/joschout/mlxtend.git
+  cd mlxtend/
+  python setup.py install develop --user
+  ```
+
+* *gzip* and *jsonpickle* ([code](https://github.com/jsonpickle/jsonpickle), [docs](https://jsonpickle.readthedocs.io/en/latest/)) are used to save learned rule sets to disk.
+* [tabulate](https://github.com/astanin/python-tabulate) is used to pretty-print tabular data, such as the different subfunction values of the (M)IDS objective function.
+* [Apyori](https://github.com/ymoch/apyori), by Yu Mochizuki. Apriori implementation completely in Python.
+* STAC: Statistical Tests for Algorithms Comparisons. ([Website](https://tec.citius.usc.es/stac/), [code](https://gitlab.citius.usc.es/ismael.rodriguez/stac/), [doc](https://tec.citius.usc.es/stac/doc/index.html), [paper PDF](http://persoal.citius.usc.es/manuel.mucientes/pubs/Rodriguez-Fdez15_fuzz-ieee-stac.pdf))
+* graphviz, for visualizing decision trees during decision-tree-to-rule conversion.
+* [bidict](https://github.com/jab/bidict), used to encode the training data during association rule minin. This way, large strings don't have to be used as data. `pip install bidict`
 
 ## Experiments
 
@@ -97,46 +140,6 @@ To reproduce this experiments, you can do the following steps for each rule type
     2. [Fit a single-target IDS model for each attribute in the dataset](./experiments/e2_multi_directional_model_comparison/model_induction/single_target_tree_mids_model_induction.py) This results in one single-target IDS model per attribute.
     3. [Merge the single-target IDS models into one ensemble (eIDS) model, and evaluate it on the test data.](./experiments/e2_multi_directional_model_comparison/eids_model_merging/single_target_tree_mids_model_merging.py)
 
-
-## Dependencies
-
-Depending on what you will use, you need to install some of the following packages. Note: we assume you have a recent Python 3 distribution installed (we used Python 3.8). Our installation instructions assume the use of a Unix shell.
-
-* [*submodmax*](https://github.com/joschout/SubmodularMaximization), for unconstrained submodular maximization of the (M)IDS objective functions. This package is required for our versions of single-target IDS and Multi-directional IDS, as it contains the algorithms used for finding a locally optimal rule set. You can install it as follows:
-  ```shell
-  git clone https://github.com/joschout/SubmodularMaximization.git
-  cd SubmodularMaximization/
-  python setup.py install develop --user
-  ```
-* [PyFIM](https://borgelt.net/pyfim.html), by Christian Borgelt. This package is used for frequent itemset mining and (single-target) association rule mining, and is a dependency for pyARC. We downloaded the precompiled version and added it to our conda environment. This package is necessary wherever `import fim` is used.
-* [pyARC](https://github.com/jirifilip/pyARC), by Jiří Filip. This package provides a Python implementation of the *Classification Based on Association Rules (CBA)* algorithn, which is one of the oldest *associative classifiers*. This package is a requirement for pyIDS. We make use of some of its data structures, and base some code snippets on theirs. *Note: there seems to be an error in the pyARC pip package, making the `QuantitativeDataFrame` class unavailable. Thus, we recommend installing it directly from the repository.*
-  ```shell
-  git clone https://github.com/jirifilip/pyARC.git
-  cd pyARC/
-  python setup.py install develop --user
-  ```
-* [pyIDS](https://github.com/jirifilip/pyIDS), by Jiří Filip and Tomas Kliegr. This package provides a great reimplementation of *Interpretable Decision Sets (IDS)*. We include a reworked IDS implementation in this repository, based on and using classes from pyIDS. To install pyIDS, run:
-  ```shell
-  git clone https://github.com/jirifilip/pyIDS.git
-  cd pyIDS  
-  ```
-  Next, copy our the `install_utls/pyIDS/setup.py` to the `pyIDS` directory and run:
-  ```shell
-   python setup.py install develop --user
-   ```
-* *MLxtend* is a Python library with an implementation of *FP-growth* that allows to extract  *single-target class association rules*. Most association rule mining implementations only allow to mine single-target rules for a given target attribute, out of efficiency considerations. We forked MLxtend and modified it to also generate *multi-target* association rules. [Our fork can be found here](https://github.com/joschout/mlxtend/), while [the regular source code can be found here](https://github.com/rasbt/mlxtend). To install our fork, run:
-  ```shell
-  git clone https://github.com/joschout/mlxtend.git
-  cd mlxtend/
-  python setup.py install develop --user
-  ```
-
-* *gzip* and *jsonpickle* ([code](https://github.com/jsonpickle/jsonpickle), [docs](https://jsonpickle.readthedocs.io/en/latest/)) are used to save learned rule sets to disk.
-* [tabulate](https://github.com/astanin/python-tabulate) is used to pretty-print tabular data, such as the different subfunction values of the (M)IDS objective function.
-* [Apyori](https://github.com/ymoch/apyori), by Yu Mochizuki. Apriori implementation completely in Python.
-* STAC: Statistical Tests for Algorithms Comparisons. ([Website](https://tec.citius.usc.es/stac/), [code](https://gitlab.citius.usc.es/ismael.rodriguez/stac/), [doc](https://tec.citius.usc.es/stac/doc/index.html), [paper PDF](http://persoal.citius.usc.es/manuel.mucientes/pubs/Rodriguez-Fdez15_fuzz-ieee-stac.pdf))
-* graphviz, for visualizing decision trees during decision-tree-to-rule conversion.
-* [bidict](https://github.com/jab/bidict), used to encode the training data during association rule minin. This way, large strings don't have to be used as data. `pip install bidict`
 
 ## References
 
