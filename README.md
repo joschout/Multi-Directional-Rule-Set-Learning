@@ -3,7 +3,7 @@
 This project contains a Python module for learning **multi-directional rule sets**, accompanying our paper:
 > Schouterden J., Davis J., Blockeel H.: *Multi-Directional Rule Set Learning.* To be presented at: Discovery Science 2020
 
-Multi-directional rule sets are useful in cases where the user is not able to indicate a target attribute in advance, as they can predict any attribute given all others. A multi-directional rule set can consists of multi-target rules (i.e. rules with multiple targets in their head), or single-target rules (where different rule can have diffferent targets as their head).
+Multi-directional rule sets are useful in cases where the user is not able to indicate a target attribute in advance, as they can predict any attribute given all others. A multi-directional rule set can consists of multi-target rules (i.e. rules with multiple targets in their head), or single-target rules (where different rules can have diffferent targets as their head).
 
 
 ## Table of Contents
